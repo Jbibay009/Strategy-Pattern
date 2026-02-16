@@ -17,3 +17,6 @@ B.  AttackStrategy
      1.  CastSpell
      2.  ShootArrow
      3.  SwingSword
+
+     
+<img width="1408" height="768" alt="Strategy Pattern UML Diagram" src="https://github.com/user-attachments/assets/8afe9f2e-2603-4858-8881-8daa763b1875" />
